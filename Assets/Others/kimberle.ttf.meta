@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 058a9707e69b84f6aa9eecf0383d3acd
+timeCreated: 1494445275
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kimberley
+  fontNames:
+  - Kimberley
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
